@@ -27,10 +27,6 @@ We proudly serve:
 - Middleborough, MA  
 - Surrounding areas
 
-## 💳 Accepted Payments
-
-- Wipe  
-
 ## 🧾 Legal Information
 
 - Registered in Massachusetts  
