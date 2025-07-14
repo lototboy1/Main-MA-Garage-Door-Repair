@@ -1,0 +1,4 @@
+[00:00:00] Build started
+[00:00:00] git clone -q --branch=main https://github.com/AOMediaCodec/libavif.git C:\projects\libavif
+[00:00:03] git checkout -qf e9db3c3f156cd67d6af3bcb49fc8b80aef77402f
+[00:00:04] The build phase is set to "MSBuild" mode (default), but no Visual Studio project or solution files were found in the root directory. If you are not building Visual Studio project switch build mode to "Script" and provide your custom build command.
