@@ -10,7 +10,7 @@
 - **Legal Status**: Registered and in *Good Standing* in the Commonwealth of Massachusetts  
 - **State Registration Number**: MA-BSR-8472935  
 - **Tax ID**: 12-3847201  
-- **Address**: #235 Main St, Lakeville, MA 02347, USA  
+- **Address**: 235 Main St, Lakeville, MA 02347, USA  
 - **Phone**: +1 (857) 578-7311  
 
 ## 🕒 Business Hours
