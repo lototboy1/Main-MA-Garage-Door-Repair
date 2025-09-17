@@ -1,6 +1,6 @@
 # Main MA Garage Door Supplier
 
-> Official local business profile for **Main MA Garage Door Repair**, managed by **Wiloam Scoot**.
+> 
 
 ## 📍 Business Information
 
@@ -22,8 +22,8 @@
 ## 📦 Service Areas
 
 We proudly serve:
-- Lakeville, MA  
-- Taunton, MA  
+- Lakeville, MA
+- - Taunton, MA 
 - Middleborough, MA  
 - Surrounding areas
 
